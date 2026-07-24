@@ -27,27 +27,27 @@ LendLog is a clean, dark-themed mobile app built with **React Native (Expo)** th
 ## Screenshots
 
 <table>
-  <tr>
-    <td><img src="screenshots/screen-home.png" width="250" height="540"/></td>
-    <td><img src="screenshots/screen-records.png" width="250" height="540"/></td>
-    <td><img src="screenshots/screen-people.png" width="250" height="540"/></td>
-  </tr>
-  <tr>
-    <td align="center">Home</td>
-    <td align="center">Records</td>
-    <td align="center">People</td>
-  </tr>
+<tr>
+<td><img src="screenshots/screen-home.png" width="250"/></td>
+<td><img src="screenshots/screen-records.png" width="250"/></td>
+<td><img src="screenshots/screen-people.png" width="250"/></td>
+</tr>
+<tr>
+<td align="center">Home</td>
+<td align="center">Records</td>
+<td align="center">People</td>
+</tr>
 </table>
 
 <table>
-  <tr>
-    <td><img src="screenshots/screen-analytics.png" width="250" height="540"/></td>
-    <td><img src="screenshots/screen-profile.png" width="250" height="540"/></td>
-  </tr>
-  <tr>
-    <td align="center">Analytics</td>
-    <td align="center">Profile</td>
-  </tr>
+<tr>
+<td><img src="screenshots/screen-analytics.png" width="250"/></td>
+<td><img src="screenshots/screen-profile.png" width="250"/></td>
+</tr>
+<tr>
+<td align="center">Analytics</td>
+<td align="center">Profile</td>
+</tr>
 </table>
 
 ---
