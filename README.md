@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/screen-logo.png" width="200" alt="LendLog-logo"/>
+<img src="screenshots/screen-logo.png" width="300" alt="LendLog-logo"/>
 
 # LendLog — Personal Lending Tracker
 
