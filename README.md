@@ -24,10 +24,13 @@ LendLog is a clean, dark-themed mobile app built with **React Native (Expo)** th
 
 ## Screenshots
 
-| Home | Records | People | Profile |
-|---------|--------|-----------|---------|
-| ![Home](screenshots/screen-home.png) | ![Records](screenshots/screen-records.png) | ![People](screenshots/screen-people.png) | ![Analytics](screenshots/screen-analytics.png) |
-[Profile](screenshots/screen-profile.png) |
+| Home | Records | People |
+|:---:|:---:|:---:|
+| ![Home](screenshots/screen-home.png) | ![Records](screenshots/screen-records.png) | ![People](screenshots/screen-people.png) |
+
+| Analytics | Profile |
+|:---:|:---:|
+| ![Analytics](screenshots/screen-analytics.png) | ![Profile](screenshots/screen-profile.png) |
 
 ---
 
