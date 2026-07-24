@@ -14,6 +14,8 @@
   </a>
 </p>
 
+</div>
+
 ---
 
 ## About LendLog
@@ -26,9 +28,9 @@ LendLog is a clean, dark-themed mobile app built with **React Native (Expo)** th
 
 <table>
   <tr>
-    <td><img src="screenshots/screen-home.png" width="250"/></td>
-    <td><img src="screenshots/screen-records.png" width="250"/></td>
-    <td><img src="screenshots/screen-people.png" width="250"/></td>
+    <td><img src="screenshots/screen-home.png" width="250" height="540"/></td>
+    <td><img src="screenshots/screen-records.png" width="250" height="540"/></td>
+    <td><img src="screenshots/screen-people.png" width="250" height="540"/></td>
   </tr>
   <tr>
     <td align="center">Home</td>
@@ -39,8 +41,8 @@ LendLog is a clean, dark-themed mobile app built with **React Native (Expo)** th
 
 <table>
   <tr>
-    <td><img src="screenshots/screen-analytics.png" width="250"/></td>
-    <td><img src="screenshots/screen-profile.png" width="250"/></td>
+    <td><img src="screenshots/screen-analytics.png" width="250" height="540"/></td>
+    <td><img src="screenshots/screen-profile.png" width="250" height="540"/></td>
   </tr>
   <tr>
     <td align="center">Analytics</td>
@@ -205,7 +207,6 @@ Requires [Expo CLI](https://docs.expo.dev/get-started/installation/) and a devic
 | Fonts | Inter (via expo-google-fonts) |
 | Language | TypeScript |
 | Build | EAS Build (Expo Application Services) |
-
 
 ---
 
