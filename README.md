@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://mega.nz/file/YRMm3C4A#IcCMO4PgZmA_IavLVtfoXs99uE0MKyotSNo56OtWYek">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20APK-LendLog%20v1.0-brightgreen?style=for-the-badge" alt="Download APK"/>
+    <img src="https://img.shields.io/badge/⬇️%20Download%20APK-LendLog%20v1.0.1-brightgreen?style=for-the-badge" alt="Download APK"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@ LendLog is a clean, dark-themed mobile app built with **React Native (Expo)** th
 
 ## Download
 
-> **[⬇️ Download LendLog APK (v1.0)](https://mega.nz/file/YRMm3C4A#IcCMO4PgZmA_IavLVtfoXs99uE0MKyotSNo56OtWYek)**
+> **[⬇️ Download LendLog APK (v1.0.1)](https://mega.nz/file/YRMm3C4A#IcCMO4PgZmA_IavLVtfoXs99uE0MKyotSNo56OtWYek)**
 
 Install the APK directly on any Android device. No Play Store required.
 
@@ -200,6 +200,6 @@ This project is for personal use. Feel free to fork and customize it for your ow
 
 ## About the App
 
-**LendLog v1.0** — A personal lending tracker to keep tab of money you lend or borrow from friends and family.
+**LendLog v1.0.1** — A personal lending tracker to keep tab of money you lend or borrow from friends and family.
 
 Built with ❤️ using React Native & Expo.
