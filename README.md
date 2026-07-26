@@ -1,5 +1,23 @@
 # LendLog
 
+<div align="center">
+
+<img src="screenshots/screen-logo.png" width="300" alt="LendLog-logo"/>
+
+# LendLog a Personal Lending Tracker
+
+<p align="center">
+  <b>A personal lending tracker to keep tab of money you lend or borrow from friends and family.</b>
+</p>
+
+<p align="center">
+  <a href="https://mega.nz/file/YRMm3C4A#IcCMO4PgZmA_IavLVtfoXs99uE0MKyotSNo56OtWYek">
+    <img src="https://img.shields.io/badge/%20Download%20APK-LendLog%20v1.0.1-brightgreen?style=for-the-badge" alt="Download APK"/>
+  </a>
+</p>
+
+</div>
+
 A personal lending tracker for Android — built with Expo & React Native.
 
 Track money you lend or borrow from friends and family. Log repayments, monitor balances, and back up your data — all offline, no account required.
@@ -8,9 +26,29 @@ Track money you lend or borrow from friends and family. Log repayments, monitor 
 
 ## Screenshots
 
-| Dashboard | Records | Analytics | People | Settings |
-|:-:|:-:|:-:|:-:|:-:|
-| ![Dashboard](./preview/dashboard.png) | ![Records](./preview/records.png) | ![Analytics](./preview/analytics.png) | ![People](./preview/people.png) | ![Settings](./preview/settings.png) |
+<table>
+<tr>
+<td><img src="screenshots/screen-home.png" width="250"/></td>
+<td><img src="screenshots/screen-records.png" width="250"/></td>
+<td><img src="screenshots/screen-people.png" width="250"/></td>
+</tr>
+<tr>
+<td align="center">Home</td>
+<td align="center">Records</td>
+<td align="center">People</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><img src="screenshots/screen-analytics.png" width="250"/></td>
+<td><img src="screenshots/screen-profile.png" width="250"/></td>
+</tr>
+<tr>
+<td align="center">Analytics</td>
+<td align="center">Profile</td>
+</tr>
+</table>
 
 ---
 
