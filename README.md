@@ -170,4 +170,4 @@ MIT
 
 ## Developer
 
-**kaix.exe** · [github.com/mrdevil42023](https://github.com/mrdevil42023)
+# **KAILASH**  · [TELEGRAM](http://t.me/mrdevil12)
