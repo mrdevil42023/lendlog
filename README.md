@@ -152,7 +152,7 @@ To restore, tap **Import & Restore** and pick the backup file. This will replace
 {
   "name": "LendLog",
   "slug": "lendlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "android": {
     "package": "com.lendlog.app"
   },
